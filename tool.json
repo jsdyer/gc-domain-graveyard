@@ -1,16 +1,38 @@
 {
-  "id": "coolcode-tool-template",
-  "title": "CoolCode Tool Starter",
-  "description": "A browser-only example that trims lines and removes exact duplicates.",
-  "category": "security",
-  "tags": ["text", "lines", "duplicates"],
-  "icon": "scan-search",
-  "url": "/coolcode-tool-template/",
-  "source": "https://github.com/jsdyer/coolcode-tool-template",
+  "id": "gc-domain-graveyard",
+  "title": "GC Domain Graveyard",
+  "description": "Recover a Canadian public website from an old name or address and open a dated archival copy.",
+  "category": "media",
+  "tags": [
+    "Canada",
+    "archived websites",
+    "Library and Archives Canada",
+    "Wayback",
+    "web history"
+  ],
+  "icon": "archive-x",
+  "url": "/gc-domain-graveyard/",
+  "source": "https://github.com/jsdyer/gc-domain-graveyard",
   "hosting": "project",
   "access": "browser",
   "data_info": {
-    "mode": "local",
-    "detail": "The browser reads the text you paste and compares its lines."
+    "mode": "snapshot",
+    "detail": "Library and Archives Canada identifies historic sites. The Internet Archive supplies additional replay dates for the original URLs.",
+    "cadence": "Monthly",
+    "probes": [
+      {
+        "url": "https://coolcode.ca/gc-domain-graveyard/data.json",
+        "path": [
+          "retrieved"
+        ],
+        "label": "Source retrieved",
+        "count_at": {
+          "path": [
+            "count"
+          ],
+          "unit": "historic resources"
+        }
+      }
+    ]
   }
 }

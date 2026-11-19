@@ -1,0 +1,417 @@
+{
+  "retrieved": "2026-11-19",
+  "source": "https://webarchiveweb.bac-lac.canada.ca/",
+  "count": 9,
+  "captures": 69,
+  "records": [
+    {
+      "title": "Canada Institute for Scientific and Technical Information (CISTI, 2006)",
+      "group": "Defunct resources",
+      "host": "cisti-icist.nrc-cnrc.gc.ca",
+      "original": "http://cisti-icist.nrc-cnrc.gc.ca/",
+      "lac": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20071116000948/http://cisti-icist.nrc-cnrc.gc.ca/",
+      "date": "2007-11-16",
+      "years": {
+        "2002": {
+          "date": "2002-12-16",
+          "url": "https://web.archive.org/web/20021216194846/http://cisti-icist.nrc-cnrc.gc.ca:80/"
+        },
+        "2003": {
+          "date": "2003-01-29",
+          "url": "https://web.archive.org/web/20030129024140/http://cisti-icist.nrc-cnrc.gc.ca:80/"
+        },
+        "2004": {
+          "date": "2004-03-22",
+          "url": "https://web.archive.org/web/20040322050504/http://cisti-icist.nrc-cnrc.gc.ca:80/"
+        },
+        "2005": {
+          "date": "2005-01-08",
+          "url": "https://web.archive.org/web/20050108091356/http://cisti-icist.nrc-cnrc.gc.ca:80/"
+        },
+        "2006": {
+          "date": "2006-01-01",
+          "url": "https://web.archive.org/web/20060101041655/http://cisti-icist.nrc-cnrc.gc.ca:80/"
+        },
+        "2007": {
+          "date": "2007-01-02",
+          "url": "https://web.archive.org/web/20070102090412/http://cisti-icist.nrc-cnrc.gc.ca:80/"
+        }
+      },
+      "cdx_checked": "2026-11-19",
+      "response": {
+        "label": "Check inconclusive",
+        "code": 503
+      }
+    },
+    {
+      "title": "National Council of Welfare (2012)",
+      "group": "Defunct resources",
+      "host": "www.ncw.gc.ca",
+      "original": "http://www.ncw.gc.ca/h.4m.2@-eng.jsp",
+      "lac": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20120712180452/http://www.ncw.gc.ca/h.4m.2@-eng.jsp",
+      "date": "2012-07-12",
+      "years": {
+        "2010": {
+          "date": "2010-11-18",
+          "url": "https://web.archive.org/web/20101118043205/http://www.ncw.gc.ca:80/h.4m.2@-eng.jsp"
+        },
+        "2011": {
+          "date": "2011-03-01",
+          "url": "https://web.archive.org/web/20110301064630/http://www.ncw.gc.ca:80/h.4m.2@-eng.jsp?"
+        },
+        "2012": {
+          "date": "2012-03-02",
+          "url": "https://web.archive.org/web/20120302133323/http://www.ncw.gc.ca/h.4m.2@-eng.jsp"
+        }
+      },
+      "cdx_checked": "2026-11-19",
+      "response": {
+        "label": "Check inconclusive",
+        "code": 503
+      }
+    },
+    {
+      "title": "Aboriginal Canada Portal (2013)",
+      "group": "Defunct resources",
+      "host": "www.aboriginalcanada.gc.ca",
+      "original": "http://www.aboriginalcanada.gc.ca/acp/site.nsf/eng/index.html",
+      "lac": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20130211191127/http://www.aboriginalcanada.gc.ca/acp/site.nsf/eng/index.html",
+      "date": "2013-02-11",
+      "years": {
+        "2010": {
+          "date": "2010-03-11",
+          "url": "https://web.archive.org/web/20100311210041/http://www.aboriginalcanada.gc.ca:80/acp/site.nsf/eng/index.html"
+        },
+        "2011": {
+          "date": "2011-05-24",
+          "url": "https://web.archive.org/web/20110524205403/http://www.aboriginalcanada.gc.ca/acp/site.nsf/eng/index.html"
+        },
+        "2012": {
+          "date": "2012-01-03",
+          "url": "https://web.archive.org/web/20120103172634/http://www.aboriginalcanada.gc.ca:80/acp/site.nsf/eng/index.html"
+        },
+        "2013": {
+          "date": "2013-01-07",
+          "url": "https://web.archive.org/web/20130107021742/http://www.aboriginalcanada.gc.ca:80/acp/site.nsf/eng/index.html"
+        }
+      },
+      "cdx_checked": "2026-11-19",
+      "response": {
+        "label": "Check inconclusive",
+        "code": 503
+      }
+    },
+    {
+      "title": "National Round Table on the Environment and the Economy (2013)",
+      "group": "Defunct resources",
+      "host": "nrtee-trnee.ca",
+      "original": "http://nrtee-trnee.ca/",
+      "lac": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20130322140948/http://nrtee-trnee.ca/",
+      "date": "2013-03-22",
+      "years": {
+        "1996": {
+          "date": "1996-12-30",
+          "url": "https://web.archive.org/web/19961230043614/http://www.nrtee-trnee.ca:80/"
+        },
+        "1997": {
+          "date": "1997-01-19",
+          "url": "https://web.archive.org/web/19970119221304/http://www.nrtee-trnee.ca:80/"
+        },
+        "1998": {
+          "date": "1998-02-07",
+          "url": "https://web.archive.org/web/19980207112921/http://www.nrtee-trnee.ca:80/"
+        },
+        "1999": {
+          "date": "1999-01-17",
+          "url": "https://web.archive.org/web/19990117001609/http://www.nrtee-trnee.ca:80/"
+        },
+        "2000": {
+          "date": "2000-04-12",
+          "url": "https://web.archive.org/web/20000412111210/http://www.nrtee-trnee.ca:80/"
+        },
+        "2001": {
+          "date": "2001-02-01",
+          "url": "https://web.archive.org/web/20010201051800/http://www.nrtee-trnee.ca:80/"
+        },
+        "2002": {
+          "date": "2002-01-22",
+          "url": "https://web.archive.org/web/20020122084704/http://www.nrtee-trnee.ca:80/"
+        },
+        "2003": {
+          "date": "2003-02-11",
+          "url": "https://web.archive.org/web/20030211185938/http://www.nrtee-trnee.ca:80/"
+        },
+        "2004": {
+          "date": "2004-01-02",
+          "url": "https://web.archive.org/web/20040102181610/http://www.nrtee-trnee.ca:80/"
+        },
+        "2005": {
+          "date": "2005-01-07",
+          "url": "https://web.archive.org/web/20050107083655/http://www.nrtee-trnee.ca:80/"
+        },
+        "2006": {
+          "date": "2006-01-01",
+          "url": "https://web.archive.org/web/20060101044024/http://www.nrtee-trnee.ca:80/"
+        },
+        "2007": {
+          "date": "2007-01-07",
+          "url": "https://web.archive.org/web/20070107105025/http://www.nrtee-trnee.ca:80/"
+        },
+        "2008": {
+          "date": "2008-01-20",
+          "url": "https://web.archive.org/web/20080120120440/http://www.nrtee-trnee.ca:80/"
+        },
+        "2009": {
+          "date": "2009-08-14",
+          "url": "https://web.archive.org/web/20090814133518/http://nrtee-trnee.ca:80/"
+        },
+        "2011": {
+          "date": "2011-09-30",
+          "url": "https://web.archive.org/web/20110930134238/http://nrtee-trnee.ca:80/"
+        },
+        "2012": {
+          "date": "2012-01-02",
+          "url": "https://web.archive.org/web/20120102005432/http://nrtee-trnee.ca:80/?"
+        },
+        "2013": {
+          "date": "2013-02-26",
+          "url": "https://web.archive.org/web/20130226163748/http://nrtee-trnee.ca/"
+        }
+      },
+      "cdx_checked": "2026-11-19",
+      "response": {
+        "label": "Archive only"
+      }
+    },
+    {
+      "title": "Canadian International Development Agency (2013)",
+      "group": "Defunct resources",
+      "host": "www.acdi-cida.gc.ca",
+      "original": "http://www.acdi-cida.gc.ca/home",
+      "lac": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20130408195331/http://www.acdi-cida.gc.ca/home",
+      "date": "2013-04-08",
+      "years": {
+        "2000": {
+          "date": "2000-06-22",
+          "url": "https://web.archive.org/web/20000622085655/http://www.acdi-cida.gc.ca:80/home"
+        },
+        "2001": {
+          "date": "2001-04-05",
+          "url": "https://web.archive.org/web/20010405142618/http://www.acdi-cida.gc.ca:80/home"
+        },
+        "2002": {
+          "date": "2002-06-07",
+          "url": "https://web.archive.org/web/20020607151641/http://www.acdi-cida.gc.ca:80/home"
+        },
+        "2003": {
+          "date": "2003-02-06",
+          "url": "https://web.archive.org/web/20030206081530/http://www.acdi-cida.gc.ca:80/home"
+        },
+        "2004": {
+          "date": "2004-04-02",
+          "url": "https://web.archive.org/web/20040402060030/http://www.acdi-cida.gc.ca:80/home"
+        },
+        "2005": {
+          "date": "2005-02-05",
+          "url": "https://web.archive.org/web/20050205183309/http://www.acdi-cida.gc.ca:80/home"
+        },
+        "2006": {
+          "date": "2006-02-02",
+          "url": "https://web.archive.org/web/20060202222849/http://www.acdi-cida.gc.ca:80/home"
+        },
+        "2007": {
+          "date": "2007-02-04",
+          "url": "https://web.archive.org/web/20070204085724/http://www.acdi-cida.gc.ca:80/home"
+        },
+        "2008": {
+          "date": "2008-01-24",
+          "url": "https://web.archive.org/web/20080124110140/http://www.acdi-cida.gc.ca:80/home"
+        },
+        "2009": {
+          "date": "2009-02-19",
+          "url": "https://web.archive.org/web/20090219214108/http://www.acdi-cida.gc.ca:80/home"
+        },
+        "2010": {
+          "date": "2010-02-08",
+          "url": "https://web.archive.org/web/20100208170825/http://www.acdi-cida.gc.ca/home"
+        },
+        "2011": {
+          "date": "2011-04-06",
+          "url": "https://web.archive.org/web/20110406202652/http://www.acdi-cida.gc.ca/home"
+        },
+        "2012": {
+          "date": "2012-01-03",
+          "url": "https://web.archive.org/web/20120103092709/http://www.acdi-cida.gc.ca/home"
+        },
+        "2013": {
+          "date": "2013-01-16",
+          "url": "https://web.archive.org/web/20130116004012/http://www.acdi-cida.gc.ca/home"
+        }
+      },
+      "cdx_checked": "2026-11-19",
+      "response": {
+        "label": "Check inconclusive",
+        "code": 503
+      }
+    },
+    {
+      "title": "Canadian Wheat Board (2015)",
+      "group": "Defunct resources",
+      "host": "cwb.ca",
+      "original": "http://cwb.ca/",
+      "lac": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20150608224209/http://cwb.ca/",
+      "date": "2015-06-08",
+      "years": {
+        "1996": {
+          "date": "1996-12-28",
+          "url": "https://web.archive.org/web/19961228002032/http://www.cwb.ca:80/"
+        },
+        "1997": {
+          "date": "1997-02-26",
+          "url": "https://web.archive.org/web/19970226185658/http://www.cwb.ca:80/"
+        },
+        "1998": {
+          "date": "1998-01-25",
+          "url": "https://web.archive.org/web/19980125140552/http://www.cwb.ca:80/"
+        },
+        "1999": {
+          "date": "1999-01-25",
+          "url": "https://web.archive.org/web/19990125094551/http://www.cwb.ca:80/"
+        },
+        "2000": {
+          "date": "2000-03-01",
+          "url": "https://web.archive.org/web/20000301124629/http://www.cwb.ca:80/"
+        },
+        "2001": {
+          "date": "2001-01-18",
+          "url": "https://web.archive.org/web/20010118230100/http://www.cwb.ca:80/"
+        },
+        "2002": {
+          "date": "2002-01-21",
+          "url": "https://web.archive.org/web/20020121045754/http://cwb.ca:80/"
+        },
+        "2003": {
+          "date": "2003-01-31",
+          "url": "https://web.archive.org/web/20030131170740/http://cwb.ca:80/"
+        },
+        "2004": {
+          "date": "2004-01-30",
+          "url": "https://web.archive.org/web/20040130124609/http://www.cwb.ca:80/"
+        },
+        "2006": {
+          "date": "2006-06-10",
+          "url": "https://web.archive.org/web/20060610220955/http://cwb.ca:80/"
+        },
+        "2013": {
+          "date": "2013-04-08",
+          "url": "https://web.archive.org/web/20130408013953/http://cwb.ca/"
+        },
+        "2014": {
+          "date": "2014-01-02",
+          "url": "https://web.archive.org/web/20140102145920/http://www.cwb.ca/"
+        },
+        "2015": {
+          "date": "2015-01-02",
+          "url": "https://web.archive.org/web/20150102100531/http://www.cwb.ca:80/"
+        }
+      },
+      "cdx_checked": "2026-11-19",
+      "response": {
+        "label": "Archive only"
+      }
+    },
+    {
+      "title": "Royal Commission on Aboriginal Peoples (Dussault & Erasmus, 1991-1996)",
+      "group": "Commission records",
+      "host": "epe.lac-bac.gc.ca",
+      "original": "http://epe.lac-bac.gc.ca/100/200/301/pco-bcp/commissions-ef/dussault1996-eng/dussault1996-eng.htm",
+      "lac": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20210610104407/http://epe.lac-bac.gc.ca/100/200/301/pco-bcp/commissions-ef/dussault1996-eng/dussault1996-eng.htm",
+      "date": "2021-06-10",
+      "years": {
+        "2017": {
+          "date": "2017-01-12",
+          "url": "https://web.archive.org/web/20170112204302/http://epe.lac-bac.gc.ca/100/200/301/pco-bcp/commissions-ef/dussault1996-eng/dussault1996-eng.htm"
+        },
+        "2018": {
+          "date": "2018-02-22",
+          "url": "https://web.archive.org/web/20180222195741/http://epe.lac-bac.gc.ca/100/200/301/pco-bcp/commissions-ef/dussault1996-eng/dussault1996-eng.htm"
+        },
+        "2021": {
+          "date": "2021-05-05",
+          "url": "https://web.archive.org/web/20210505224347/https://epe.lac-bac.gc.ca/100/200/301/pco-bcp/commissions-ef/dussault1996-eng/dussault1996-eng.htm"
+        }
+      },
+      "cdx_checked": "2026-11-19",
+      "response": {
+        "label": "Redirect response",
+        "code": 302
+      }
+    },
+    {
+      "title": "Commission on the Future of Health Care in Canada (Romanow, 2001-2002)",
+      "group": "Commission records",
+      "host": "epe.lac-bac.gc.ca",
+      "original": "http://epe.lac-bac.gc.ca/100/200/301/pco-bcp/commissions-ef/romanow2002-eng/romanow2002-eng.htm",
+      "lac": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20210608043648/http://epe.lac-bac.gc.ca/100/200/301/pco-bcp/commissions-ef/romanow2002-eng/romanow2002-eng.htm",
+      "date": "2021-06-08",
+      "years": {
+        "2017": {
+          "date": "2017-01-12",
+          "url": "https://web.archive.org/web/20170112202044/http://epe.lac-bac.gc.ca/100/200/301/pco-bcp/commissions-ef/romanow2002-eng/romanow2002-eng.htm"
+        },
+        "2018": {
+          "date": "2018-02-22",
+          "url": "https://web.archive.org/web/20180222182131/http://epe.lac-bac.gc.ca/100/200/301/pco-bcp/commissions-ef/romanow2002-eng/romanow2002-eng.htm"
+        },
+        "2020": {
+          "date": "2020-01-14",
+          "url": "https://web.archive.org/web/20200114152953/http://epe.lac-bac.gc.ca/100/200/301/pco-bcp/commissions-ef/romanow2002-eng/romanow2002-eng.htm"
+        }
+      },
+      "cdx_checked": "2026-11-19",
+      "response": {
+        "label": "Redirect response",
+        "code": 302
+      }
+    },
+    {
+      "title": "Commission of Inquiry into the Decline of Sockeye Salmon in the Fraser River (Cohen, 2009-2012)",
+      "group": "Commission records",
+      "host": "epe.lac-bac.gc.ca",
+      "original": "https://epe.lac-bac.gc.ca/100/206/301/pco-bcp/commissions/cohen/cohen_commission/LOCALHOS/EN/INDEX.HTM",
+      "lac": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20210611162839/https://epe.lac-bac.gc.ca/100/206/301/pco-bcp/commissions/cohen/cohen_commission/LOCALHOS/EN/INDEX.HTM",
+      "date": "2021-06-11",
+      "years": {
+        "2014": {
+          "date": "2014-04-06",
+          "url": "https://web.archive.org/web/20140406142103/http://epe.lac-bac.gc.ca:80/100/206/301/pco-bcp/commissions/cohen/cohen_commission/LOCALHOS/EN/INDEX.HTM"
+        },
+        "2016": {
+          "date": "2016-07-28",
+          "url": "https://web.archive.org/web/20160728195105/http://epe.lac-bac.gc.ca/100/206/301/pco-bcp/commissions/cohen/cohen_commission/LOCALHOS/EN/INDEX.HTM"
+        },
+        "2017": {
+          "date": "2017-01-12",
+          "url": "https://web.archive.org/web/20170112211646/http://epe.lac-bac.gc.ca/100/206/301/pco-bcp/commissions/cohen/cohen_commission/LOCALHOS/EN/INDEX.HTM"
+        },
+        "2018": {
+          "date": "2018-02-22",
+          "url": "https://web.archive.org/web/20180222203025/http://epe.lac-bac.gc.ca/100/206/301/pco-bcp/commissions/cohen/cohen_commission/LOCALHOS/EN/INDEX.HTM"
+        },
+        "2019": {
+          "date": "2019-11-08",
+          "url": "https://web.archive.org/web/20191108201635/http://epe.lac-bac.gc.ca/100/206/301/pco-bcp/commissions/cohen/cohen_commission/LOCALHOS/EN/INDEX.HTM"
+        },
+        "2021": {
+          "date": "2021-06-11",
+          "url": "https://web.archive.org/web/20210611081721/https://epe.lac-bac.gc.ca/100/206/301/pco-bcp/commissions/cohen/cohen_commission/LOCALHOS/EN/INDEX.HTM"
+        }
+      },
+      "cdx_checked": "2026-11-19",
+      "response": {
+        "label": "Redirect response",
+        "code": 302
+      }
+    }
+  ]
+}
