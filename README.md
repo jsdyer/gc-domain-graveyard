@@ -19,3 +19,11 @@ The monthly collector retrieves the LAC highlights, checks the additional histor
 [Government of Canada Web Archive](https://webarchiveweb.bac-lac.canada.ca/) · [Wayback CDX documentation](https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server).
 
 Run `python scripts/refresh.py` to refresh the snapshot, `node --test tests/*.test.mjs` and `python -m unittest discover -s tests` to test, then `python scripts/build.py` to build.
+
+<!-- schedule-reliability -->
+## Schedule reliability
+
+Public GitHub repositories can have scheduled workflows disabled after 60 days of inactivity. A separate weekly [schedule guard](.github/workflows/schedule-guard.yml) calls GitHub's enable-workflow API for an explicit list of refresh workflows and itself. It can restore workflows disabled for inactivity, preserves manually disabled workflows, and runs independently of collection failures.
+
+This is an interim mitigation, not a scheduling guarantee: GitHub does not document active-workflow renewal as a permanent exemption, and scheduled runs can be delayed or dropped. A scheduler on our own Linux server is the planned independent trigger. The guard does not collect data, create dummy commits, or change source/check timestamps; successful collection and published data freshness still need monitoring.
+<!-- /schedule-reliability -->
